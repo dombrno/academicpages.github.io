@@ -5,7 +5,7 @@ permalink: /publication/cuprate_kink
 excerpt: 'This paper is about the (Brillouin zone) angular dependence of the energy of the kink in the electronic dispersion of cuprate high-temperature superconductors.'
 date: 2016-04-1
 venue: 'Physical Review B'
-paperurl: 'http://academicpages.github.io/files/PhysRevB_93_144501.pdf'
+paperurl: 'http://academicpages.github.io/files/PhysRevB93144501.pdf'
 citation: 'Dominique Geffroy, Jirı Chaloupka, Thomas Dahm, and Dominik Munzar (2016). &quot;Role of the upper branch of the hour-glass magnetic spectrum in the formation of the main kink in the electronic dispersion of high-Tc cuprate superconductors.&quot; <i>PRB 93</i>. 144501 (2016).'
 ---
 
@@ -23,4 +23,4 @@ angle θ between the Fermi surface cut and the nodal direction, in qualitative a
 observations. We clarify the trend and make a specific prediction concerning the angular dependence of the kink
 energy in underdoped YBa2Cu3O6.6.
 
-[Download paper here](http://academicpages.github.io/files/PhysRevB_93_144501.pdf)
+[Download paper here](http://academicpages.github.io/files/PhysRevB93144501.pdf)
