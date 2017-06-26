@@ -6,7 +6,7 @@ excerpt: 'This paper is about the angular dependence of the energy of the kink i
 date: 2016-04-1
 venue: 'Physical Review B'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Dominique Geffroy, Jirı Chaloupka, Thomas Dahm, and Dominik Munzar (2016). &quot;Role of the upper branch of the hour-glass magnetic spectrum in the formation of the main kink in the electronic dispersion of high-Tc cuprate superconductors.&quot; <i>PRB 93, 144501</i>. 1(1).'
+citation: 'Dominique Geffroy, Jirı Chaloupka, Thomas Dahm, and Dominik Munzar (2016). &quot;Role of the upper branch of the hour-glass magnetic spectrum in the formation of the main kink in the electronic dispersion of high-Tc cuprate superconductors.&quot; <i>PRB 93</i>. 144501 (2016).'
 ---
 
 We investigate the electronic dispersion of the high-Tc cuprate superconductors using the fully self-consistent
@@ -24,5 +24,3 @@ observations. We clarify the trend and make a specific prediction concerning the
 energy in underdoped YBa2Cu3O6.6.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
