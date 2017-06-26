@@ -11,7 +11,7 @@ citation: 'Dominique Geffroy, Jirı Chaloupka, Thomas Dahm, and Dominik Munzar (
 
 We investigate the electronic dispersion of the high-Tc cuprate superconductors using the fully self-consistent
 version of the phenomenological model, where charge planar quasiparticles are coupled to spin fluctuations.
-The inputs we use, the underlying (bare) band structure and the spin susceptibility χ, are extracted from fits of
+The inputs we use, the underlying (bare) band structure and the spin susceptibility $\chi$, are extracted from fits of
 angle-resolved photoemission and inelastic neutron scattering data of underdoped YBa2Cu3O6.6 by T. Dahm and
 coworkers [Nat. Phys. 5, 217 (2009)]. Our main results are as follows: (i) We have confirmed the finding by Dahm
 and coworkers that the main nodal kink is, for the present values of the input parameters, determined by the upper
