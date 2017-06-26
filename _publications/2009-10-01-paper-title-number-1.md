@@ -2,7 +2,7 @@
 title: "Role of the upper branch of the hour-glass magnetic spectrum in the formation of the main kink in the electronic dispersion of high-Tc cuprate superconductors"
 collection: publications
 permalink: /publication/cuprate_kink
-excerpt: 'This paper is about the angular dependence of the energy of the kink in high-temperature cuprate superconductors.'
+excerpt: 'This paper is about the (Brillouin zone) angular dependence of the energy of the kink in the electronic dispersion of cuprate high-temperature superconductors.'
 date: 2016-04-1
 venue: 'Physical Review B'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
