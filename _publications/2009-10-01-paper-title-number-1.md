@@ -2,9 +2,9 @@
 title: "Role of the upper branch of the hour-glass magnetic spectrum in the formation of the main kink in the electronic dispersion of high-Tc cuprate superconductors"
 collection: publications
 permalink: /publication/cuprate_kink
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+excerpt: 'This paper is about the angular dependence of the energy of the kink in high-temperature cuprate superconductors.'
+date: 2016-04-1
+venue: 'Physical Review B'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Dominique Geffroy, Jirı Chaloupka, Thomas Dahm, and Dominik Munzar (2016). &quot;Role of the upper branch of the hour-glass magnetic spectrum in the formation of the main kink in the electronic dispersion of high-Tc cuprate superconductors.&quot; <i>PRB 93, 144501</i>. 1(1).'
 ---
