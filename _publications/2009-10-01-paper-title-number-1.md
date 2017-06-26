@@ -6,7 +6,7 @@ excerpt: 'This paper is about the (Brillouin zone) angular dependence of the ene
 date: 2016-04-1
 venue: 'Physical Review B'
 paperurl: 'http://dombrno.github.io/files/PhysRevB93144501.pdf'
-citation: 'Dominique Geffroy, Jirı Chaloupka, Thomas Dahm, and Dominik Munzar (2016). &quot;Role of the upper branch of the hour-glass magnetic spectrum in the formation of the main kink in the electronic dispersion of high-Tc cuprate superconductors.&quot; <i>PRB 93</i>. 144501 (2016).'
+citation: 'Dominique Geffroy, Jirı Chaloupka, Thomas Dahm, and Dominik Munzar (2016). &quot;Role of the upper branch of the hour-glass magnetic spectrum in the formation of the main kink in the electronic dispersion of high-Tc cuprate superconductors.&quot; <i>PRB 93</i>, 144501 (2016).'
 ---
 
 We investigate the electronic dispersion of the high-Tc cuprate superconductors using the fully self-consistent
