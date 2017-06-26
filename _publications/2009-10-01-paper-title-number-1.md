@@ -23,4 +23,4 @@ angle θ between the Fermi surface cut and the nodal direction, in qualitative a
 observations. We clarify the trend and make a specific prediction concerning the angular dependence of the kink
 energy in underdoped YBa2Cu3O6.6.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/PhysRevB_93_144501.pdf)
